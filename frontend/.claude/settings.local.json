@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/adithya/Desktop/automations_technical_assessment/integrations_technical_assessment/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
